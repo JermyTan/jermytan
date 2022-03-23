@@ -7,6 +7,10 @@
 <br/>
 
 [![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JermyTan&show_icons=true&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Jeremy's Lang stats](https://github-readme-stats.vercel.app/api/top-langs?username=JermyTan&langs_count=6&layout=compact&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Jeremy's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JermyTan&layout=compact&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
