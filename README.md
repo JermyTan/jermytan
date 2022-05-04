@@ -1,5 +1,7 @@
 ### Hi, I'm Jeremy 😊
 
+![Profile views](https://gpvc.arturio.dev/JermyTan)
+
 <div align="center">
 
 <img src="./jermytan.png" alt="Jeremy" width="400" />
