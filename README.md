@@ -1,6 +1,6 @@
 ### Hi, I'm Jeremy 😊
 
-![Profile views](https://gpvc.arturio.dev/JermyTan)
+![Profile views](https://komarev.com/ghpvc/?username=JermyTan)
 
 <div align="center">
 
